@@ -1,4 +1,4 @@
-# Data Scientist | Machine Learning | Finance Enthusiast
+
 Hello! 👋
 
 Welcome to my portfolio, where I showcase my projects in Data Science and Machine Learning.
